@@ -1,0 +1,248 @@
+{
+  "project": "Lakeside: The Crossing",
+  "pass": "1 - B&W Sketches",
+  "version": 3,
+  "total_beats": 48,
+  "beats": [
+    {
+      "id": "1.1",
+      "scene": 1,
+      "description": "aerial view of small Mediterranean island, terra-cotta rooftops, whitewash walls, harbor of glass-still water, fishing boats at dock, autumn light"
+    },
+    {
+      "id": "1.2",
+      "scene": 1,
+      "description": "harbor close-up, fishing nets drying on dock in afternoon sun, painted fishing boats knocking against each other, cat asleep on coiled rope"
+    },
+    {
+      "id": "1.3",
+      "scene": 1,
+      "description": "man in suit walking narrow stone streets, jacket over his arm, village nearly empty, faded cafe awning, cracked church bell tower, grocer's with crates outside"
+    },
+    {
+      "id": "1.4",
+      "scene": 1,
+      "description": "small spare room, white walls, dark blue shutters thrown open, narrow bed, wooden chair, through window the harbor below, gold evening light on water"
+    },
+    {
+      "id": "2.1",
+      "scene": 2,
+      "description": "man on cafe terrace at dusk, wine glass, unreadable newspaper spread before him, relaxed posture but eyes glancing sideways, Mediterranean dusk"
+    },
+    {
+      "id": "2.2",
+      "scene": 2,
+      "description": "hillside above village, scrub and stone in late light, view looking down at village and harbor from above, distant figure on cafe terrace below"
+    },
+    {
+      "id": "2.3",
+      "scene": 2,
+      "description": "close-up on man's face, faintest smile, eyes narrowed with amusement, wine glass raised to lips, Mediterranean dusk light"
+    },
+    {
+      "id": "3.1",
+      "scene": 3,
+      "description": "morning, man in suit descending stone harbor steps, below another man sitting on seawall legs dangling over water eating an orange, hat pushed back, dusty boots"
+    },
+    {
+      "id": "3.2",
+      "scene": 3,
+      "description": "close-up of hands peeling orange with hunting knife, long sun-darkened fingers separating segments, orange juice sticky at wrist, loose easy grip on the blade"
+    },
+    {
+      "id": "3.3",
+      "scene": 3,
+      "description": "two men passing each other on seawall, neither looking at the other, one walking past without breaking stride, Mediterranean harbor morning"
+    },
+    {
+      "id": "3.4",
+      "scene": 3,
+      "description": "man emerging from grocer's with paper bag, seawall empty, curl of orange peel drying on stone where someone sat, morning light"
+    },
+    {
+      "id": "4.1",
+      "scene": 4,
+      "description": "cafe mid-morning, two men at separate tables, silver-haired woman owner bringing espresso to each, Mediterranean village cafe"
+    },
+    {
+      "id": "4.2",
+      "scene": 4,
+      "description": "rugged man leaning forward, cup in both hands, elbows on table, other man behind newspaper, one hand turning a page, posture upright and still"
+    },
+    {
+      "id": "4.3",
+      "scene": 4,
+      "description": "two men's eyes meeting over top of newspaper, one with slight raised eyebrow, other with head tilted and jaw set, cafe table between them"
+    },
+    {
+      "id": "4.4",
+      "scene": 4,
+      "description": "man rising from cafe table, adjusting hat, walking toward harbor with long unhurried stride, other man watching him go over the edge of his newspaper"
+    },
+    {
+      "id": "5.1",
+      "scene": 5,
+      "description": "late afternoon golden light, stone jetty at end of harbor, rugged man sitting against mooring post reading battered bird guide, sea turning to honey"
+    },
+    {
+      "id": "5.2",
+      "scene": 5,
+      "description": "suited man arriving at jetty, hand gesturing toward opposite mooring post, other man shrugging without looking up from book"
+    },
+    {
+      "id": "5.3",
+      "scene": 5,
+      "description": "man seated on jetty producing cigarette case, smoke curling over darkening water, case held open toward other man"
+    },
+    {
+      "id": "5.4",
+      "scene": 5,
+      "description": "man dog-earing page of book, other man wincing at the gesture, taking a cigarette from offered case"
+    },
+    {
+      "id": "5.5",
+      "scene": 5,
+      "description": "close-up of two men's faces lit by lighter flame, one leaning in close, other studying him in flickering light, deep lines around eyes, scratches on forearms, faces inches apart"
+    },
+    {
+      "id": "5.6",
+      "scene": 5,
+      "description": "man exhaling cigarette smoke toward horizon on jetty, leaning back against mooring post, one arm draped over knee, darkening sky over water"
+    },
+    {
+      "id": "5.8",
+      "scene": 5,
+      "description": "close-up of two men on jetty at dusk, suited man's lips parted mid-sentence, other man turned toward him with chin lifted, faces close, last light on the water behind them"
+    },
+    {
+      "id": "5.9",
+      "scene": 5,
+      "description": "rugged man on jetty holding cigarette loosely between fingers, looking out at dark water, jaw set, eyes narrowed toward the horizon, dusk"
+    },
+    {
+      "id": "5.10",
+      "scene": 5,
+      "description": "two men on jetty at dusk, one leaning forward, other turned to face him fully, steady direct eye contact between them, last golden light on the water"
+    },
+    {
+      "id": "6.1",
+      "scene": 6,
+      "description": "man walking coastal trail alone, scrub and wind, island falling away to sea on every side, white foam on black stone below, single figure on the path"
+    },
+    {
+      "id": "6.2",
+      "scene": 6,
+      "description": "man sitting in wooden chair by open window, late afternoon light on his face, village rooftops visible below, alone in spare room"
+    },
+    {
+      "id": "6.3",
+      "scene": 6,
+      "description": "man at mirror freshly shaved, thumb along jaw, adjusting tie and cuffs carefully, precise deliberate grooming, evening light"
+    },
+    {
+      "id": "7.1",
+      "scene": 7,
+      "description": "man eating alone at cafe terrace, grilled fish potatoes salad carafe of wine, lamplight, fork paused mid-air, eyes half-closed, evening"
+    },
+    {
+      "id": "7.2",
+      "scene": 7,
+      "description": "second man seated in chair across table, hat tossed onto the table between them, leaning back with arms crossed, cafe terrace evening lamplight"
+    },
+    {
+      "id": "7.3",
+      "scene": 7,
+      "description": "cafe owner setting second plate down, man raising hand to signal for another carafe, eyes on the other man eating across the table, lamplight"
+    },
+    {
+      "id": "7.4",
+      "scene": 7,
+      "description": "two men at dinner table, one eating hungrily with bread in one hand and fork in the other, other cutting fish with precise small movements, cafe terrace lamplight"
+    },
+    {
+      "id": "7.5",
+      "scene": 7,
+      "description": "close-up of man's face, head thrown back in sudden laughter, eyes creased shut, mouth open, the controlled expression completely gone, cafe lamplight"
+    },
+    {
+      "id": "7.6",
+      "scene": 7,
+      "description": "close-up of rugged man's face in lamplight, eyes wide and still, slight parting of lips, watching someone across the table, head tilted forward"
+    },
+    {
+      "id": "7.7",
+      "scene": 7,
+      "description": "man reaching for wine glass with a lingering half-smile, other man returning to his plate, cafe table between them, lamplight evening"
+    },
+    {
+      "id": "8.1",
+      "scene": 8,
+      "description": "empty terrace, cafe owner sweeping around two remaining men, village dark except corner lamp and low white moon grazing the water"
+    },
+    {
+      "id": "8.2",
+      "scene": 8,
+      "description": "two men walking side by side to stone steps, behind a shutter someone washing dishes, their arms nearly touching, night village"
+    },
+    {
+      "id": "8.3",
+      "scene": 8,
+      "description": "two men standing close at foot of stone steps, facing each other, hands at their sides, weight shifted toward each other, moonlight and lamplight"
+    },
+    {
+      "id": "8.4",
+      "scene": 8,
+      "description": "close-up of suited man's face at night, lips barely moving, brow softened, eyes searching the other man's face, moonlight and lamplight"
+    },
+    {
+      "id": "8.5",
+      "scene": 8,
+      "description": "rugged man looking at the ground, harbor behind him with boats motionless in dark water, looking back with brow lifted, lips parted, eyes wide and undefended"
+    },
+    {
+      "id": "8.6",
+      "scene": 8,
+      "description": "rugged man rubbing back of his neck, mouth open mid-word, other man leaning in with a slight nod, both close together at the stone steps at night"
+    },
+    {
+      "id": "8.7",
+      "scene": 8,
+      "description": "man standing on first step turned back, the added height putting them exactly eye to eye, mouth open to speak, the other man's hand raised palm-out, stone steps in moonlight"
+    },
+    {
+      "id": "8.8",
+      "scene": 8,
+      "description": "close-up of rugged man, barest smile visible under brim of hat, one hand touching the hat brim, moonlight on his face"
+    },
+    {
+      "id": "8.9",
+      "scene": 8,
+      "description": "man standing alone on stone step in moonlight, empty cobblestone street below, solitary figure, church bell tower in background"
+    },
+    {
+      "id": "9.1",
+      "scene": 9,
+      "description": "small white room, man sitting on edge of narrow bed, tie loosened, harbor light through window, alone"
+    },
+    {
+      "id": "9.2",
+      "scene": 9,
+      "description": "man in white room unbuttoning shirt collar, standing by narrow bed, bare walls, dim harbor light, shoulders rounded, head bowed"
+    },
+    {
+      "id": "9.3",
+      "scene": 9,
+      "description": "jacket hung on bedpost, man lying back on narrow bed feet on floor shoes still on, harbor lights painting shifting shapes on ceiling"
+    },
+    {
+      "id": "9.4",
+      "scene": 9,
+      "description": "close-up of man's face, eyes open and still in dark room, harbor light reflections drifting across the ceiling above him"
+    },
+    {
+      "id": "9.5",
+      "scene": 9,
+      "description": "close-up of man's hand pressed flat to his own chest in dark room, lying on bed, harbor light reflections on ceiling above"
+    }
+  ]
+}

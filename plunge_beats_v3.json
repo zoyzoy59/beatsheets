@@ -1,0 +1,935 @@
+{
+  "project": "Plunge",
+  "pass": "1 - B&W Sketches",
+  "version": 3,
+  "total_beats": 144,
+  "revised_beats": 42,
+  "beats": [
+    {
+      "id": "1.1",
+      "scene": 1,
+      "description": "young girl running through grassland, arms outstretched, laughing, older teenage sister walking behind carrying wooden bucket, vast sky, open fields"
+    },
+    {
+      "id": "1.2",
+      "scene": 1,
+      "description": "young girl slipping bread crust to scrawny black dog, older sister watching disapprovingly in background"
+    },
+    {
+      "id": "1.3",
+      "scene": 1,
+      "description": "two sisters at stone well, older sister tipping wooden bucket for younger to drink, younger girl's hands cupped around sister's hands, their faces close together"
+    },
+    {
+      "id": "1.4",
+      "scene": 1,
+      "description": "teenage girl wiping young girl's face with her sleeve, one hand cupping the girl's chin, soft expression"
+    },
+    {
+      "id": "1.5",
+      "scene": 1,
+      "description": "black dog bolting toward distant trees, young girl already chasing, older sister's hand reaching out too late to stop her"
+    },
+    {
+      "id": "1.6",
+      "scene": 1,
+      "description": "two sisters at edge of dark swamp, twisted trees, mist rising from black water, younger girl gripping older sister's hand, both staring at something unsettling"
+    },
+    {
+      "id": "1.7",
+      "scene": 1,
+      "description": "scrawny black dog cowering, tail between legs, refusing to approach dark water, two sisters visible in background at swamp edge"
+    },
+    {
+      "id": "2.1",
+      "scene": 2,
+      "description": "undertaker's wagon arriving at humble homestead, one wheel cracked, shapes of bodies under rough cloth in wagon bed, gray overcast light"
+    },
+    {
+      "id": "2.2",
+      "scene": 2,
+      "description": "young girl eagerly pointing toward well, showing undertaker around, older sister watching from distance with guarded expression"
+    },
+    {
+      "id": "2.3",
+      "scene": 2,
+      "description": "teenage girl offering food to tired undertaker, his hand raised declining, his face bone-tired but kind"
+    },
+    {
+      "id": "2.4",
+      "scene": 2,
+      "description": "wagon leaving down dirt road, two sisters watching it go, undertaker not looking back, empty road stretching ahead"
+    },
+    {
+      "id": "3.1",
+      "scene": 3,
+      "description": "young girl alone kneeling at swamp edge, black dog visible at tree line behind her sitting and waiting, refusing to come closer"
+    },
+    {
+      "id": "3.2",
+      "scene": 3,
+      "revised": true,
+      "description": "young girl waving at dark water, her reflection waving with the wrong hand, reflection's smile too wide, reflection's eyes looking slightly off"
+    },
+    {
+      "id": "3.3",
+      "scene": 3,
+      "revised": true,
+      "description": "dark water surface bulging upward, ripples spreading outward, sediment swirling, young girl leaning close with curiosity not fear"
+    },
+    {
+      "id": "3.4",
+      "scene": 3,
+      "description": "young girl's lips parted whispering to the water, water rippling in response, the surface disturbed in concentric rings"
+    },
+    {
+      "id": "4.1",
+      "scene": 4,
+      "description": "night interior, small fire, two sisters eating thin soup from nearly empty bowls, black dog near door with bone, low ceiling, dirt floor"
+    },
+    {
+      "id": "4.2",
+      "scene": 4,
+      "description": "pot knocked over, food spilling onto dirt floor, young girl's face horrified at what she's done"
+    },
+    {
+      "id": "4.3",
+      "scene": 4,
+      "description": "older sister mid-explosion, face twisted with anger, younger sister shrinking back crying"
+    },
+    {
+      "id": "4.4",
+      "scene": 4,
+      "description": "older sister pulling younger close, holding tight, shame on older girl's face, younger girl's tears on her shoulder"
+    },
+    {
+      "id": "4.5",
+      "scene": 4,
+      "description": "two sisters holding each other in firelight, small figures against the dark, their shadows large on the wall behind them"
+    },
+    {
+      "id": "5.1",
+      "scene": 5,
+      "revised": true,
+      "description": "teenage girl standing on black water that reflects nothing, faint particles of light drifting upward around her, infinite darkness in all directions"
+    },
+    {
+      "id": "5.2",
+      "scene": 5,
+      "revised": true,
+      "description": "teenage girl mid-step toward faint glow, body leaning forward, arms slightly raised for balance, hair and clothes drifting toward the light as if underwater"
+    },
+    {
+      "id": "5.3",
+      "scene": 5,
+      "revised": true,
+      "description": "dark water surface from above, massive shadow visible in the depths, teenage girl tiny at the edge, two faint points of light far below like eyes watching"
+    },
+    {
+      "id": "5.4",
+      "scene": 5,
+      "description": "teenage girl in bed bolt upright gasping, hands gripping the blanket, younger sister sleeping peacefully beside her, night"
+    },
+    {
+      "id": "6.1",
+      "scene": 6,
+      "description": "two sisters tending garden rows, poor soil struggling vegetables, black dog digging nearby, midday sun, sweat on their brows"
+    },
+    {
+      "id": "6.2",
+      "scene": 6,
+      "description": "young girl holding up small plant with flower, older sister smiling wide, both on their knees in the dirt"
+    },
+    {
+      "id": "6.3",
+      "scene": 6,
+      "description": "refugee caravan on distant road, wagons piled high, hollow-faced people, seen from distance"
+    },
+    {
+      "id": "6.4",
+      "scene": 6,
+      "description": "young boy in wagon waving shyly at young girl, she waves back, both smiling"
+    },
+    {
+      "id": "6.5",
+      "scene": 6,
+      "description": "harsh woman yanking boy's arm down, her face glaring at the sisters, other hostile faces turning toward them, narrowed eyes and tight mouths"
+    },
+    {
+      "id": "6.6",
+      "scene": 6,
+      "description": "older sister pulling younger close protectively, watching caravan pass, black dog growling low"
+    },
+    {
+      "id": "7.1",
+      "scene": 7,
+      "description": "young girl in bed feverish, sweat on brow, too still, cheeks flushed, blanket damp"
+    },
+    {
+      "id": "7.2",
+      "scene": 7,
+      "description": "older sister at bedside pressing cool cloth to younger sister's forehead, jaw clenched, eyes wide, knuckles white on the cloth"
+    },
+    {
+      "id": "7.3",
+      "scene": 7,
+      "revised": true,
+      "description": "sick young girl's fevered eyes looking up at older sister, one hand weakly reaching, older sister's face struggling to hide terror, forced reassuring smile breaking"
+    },
+    {
+      "id": "7.4",
+      "scene": 7,
+      "description": "two hands clasped, younger girl reaching from the bed, older sister gripping with both hands, knuckles white"
+    },
+    {
+      "id": "8.1",
+      "scene": 8,
+      "description": "town overview, smoke rising, garbage piled in streets, rats and crows feeding, boarded-up windows, bodies in the gutters"
+    },
+    {
+      "id": "8.2",
+      "scene": 8,
+      "description": "sick man vomiting into stream, nearby others drawing water from same stream to drink, no one looking at each other"
+    },
+    {
+      "id": "8.3",
+      "scene": 8,
+      "description": "teenage girl on ground in mud, man walking away not looking back, other townspeople stepping around her, no one stopping"
+    },
+    {
+      "id": "8.4",
+      "scene": 8,
+      "description": "teenage girl at window watching plague doctor inside, grotesque patient on table, strange ritual, girl's face pressed to the glass"
+    },
+    {
+      "id": "8.5",
+      "scene": 8,
+      "description": "plague doctor walking past teenage girl, her hand reaching toward him, his face turned away, already past her"
+    },
+    {
+      "id": "8.6",
+      "scene": 8,
+      "revised": true,
+      "description": "shadowed alley corner, hooded figure crouched in darkness, one pale hand visible beckoning, teenage girl frozen mid-step staring into the shadows"
+    },
+    {
+      "id": "8.7",
+      "scene": 8,
+      "description": "teenage girl running, town behind her, fear on her face, fleeing"
+    },
+    {
+      "id": "8.8",
+      "scene": 8,
+      "description": "teenage girl alone on dark road, town lights fading behind, fuzzy stars overhead, small figure in vast darkness, empty road ahead"
+    },
+    {
+      "id": "9.1",
+      "scene": 9,
+      "description": "older sister hugging younger sister fiercely, younger barely responsive, tears streaming down older girl's face"
+    },
+    {
+      "id": "9.2",
+      "scene": 9,
+      "description": "teenage girl sitting on doorstep, face buried in her hands, shoulders heaving, black dog sitting near watching her"
+    },
+    {
+      "id": "9.3",
+      "scene": 9,
+      "revised": true,
+      "description": "teenage girl on doorstep, head turned sharply toward treeline, hand raised frozen mid-motion, black dog's ears also pricked toward the swamp"
+    },
+    {
+      "id": "9.4",
+      "scene": 9,
+      "description": "swamp at night transformed, bioluminescent glow beneath water, trees leaning toward the figure at the edge, mist glowing blue-green"
+    },
+    {
+      "id": "9.5",
+      "scene": 9,
+      "revised": true,
+      "description": "teenage girl kneeling at water's edge in trance, massive dark shape beneath the glowing surface, her reflection reaching up toward her while she reaches down"
+    },
+    {
+      "id": "9.6",
+      "scene": 9,
+      "description": "vision of parents alive at table, feast spread before them, young girl healthy laughing, warm golden light, everything slightly too bright"
+    },
+    {
+      "id": "9.7",
+      "scene": 9,
+      "description": "vision warping, same image corrupting, faces distorting into plague doctor hooded figure corpses, beauty and horror merged"
+    },
+    {
+      "id": "9.8",
+      "scene": 9,
+      "revised": true,
+      "description": "close-up of teenage girl's face, eyes closed, tension released from jaw and brow, single tear track, muscles slack"
+    },
+    {
+      "id": "10.1",
+      "scene": 10,
+      "description": "morning, teenage girl waking in bed, dark circles under her eyes, face gaunt, beside her younger sister breathing easier, color in her cheeks"
+    },
+    {
+      "id": "10.2",
+      "scene": 10,
+      "description": "days later, young girl sitting up in bed eating, color returning to cheeks, bowl in her lap, crumbs on the blanket"
+    },
+    {
+      "id": "10.3",
+      "scene": 10,
+      "description": "older sister struggling through chores, bucket dragging on the ground, shoulders hunched, arms trembling"
+    },
+    {
+      "id": "10.4",
+      "scene": 10,
+      "description": "undertaker's wagon arriving again, same wagon same cracked wheel, same man on the bench"
+    },
+    {
+      "id": "10.5",
+      "scene": 10,
+      "description": "young girl running to greet undertaker, arms waving, older sister far behind walking slowly, barely keeping up"
+    },
+    {
+      "id": "10.6",
+      "scene": 10,
+      "revised": true,
+      "description": "undertaker's weathered face, eyes narrowed studying teenage girl, brow furrowed with concern, gaze moving between the two sisters"
+    },
+    {
+      "id": "10.7",
+      "scene": 10,
+      "revised": true,
+      "description": "undertaker pressing onions into teenage girl's thin hands, his expression gentle and sad, her hollow eyes looking up at him, fingers closing tight around the gift"
+    },
+    {
+      "id": "10.8",
+      "scene": 10,
+      "description": "older sister watching wagon disappear down road, black dog trotting after it briefly then returning"
+    },
+    {
+      "id": "10.9",
+      "scene": 10,
+      "revised": true,
+      "description": "young girl's hand reaching toward older sister's face, young girl's brow creased with worry, older sister flinching slightly from the touch"
+    },
+    {
+      "id": "11.1",
+      "scene": 11,
+      "description": "young girl outside playing with black dog, throwing stick mid-throw, laughing, hair flying"
+    },
+    {
+      "id": "11.2",
+      "scene": 11,
+      "description": "older sister in doorway barely standing, one hand gripping the frame for balance, watching younger sister play outside"
+    },
+    {
+      "id": "11.3",
+      "scene": 11,
+      "description": "teenage girl at swamp wading in, water at her waist, eyes distant, arms loose at her sides"
+    },
+    {
+      "id": "11.4",
+      "scene": 11,
+      "description": "something grabbing her ankle beneath water, teenage girl's face shock and fear"
+    },
+    {
+      "id": "11.5",
+      "scene": 11,
+      "revised": true,
+      "description": "underwater view of teenage girl thrashing, dark tentacle-like roots wrapped around her ankle, vast shape looming in murky background, her face showing struggle not panic"
+    },
+    {
+      "id": "11.6",
+      "scene": 11,
+      "revised": true,
+      "description": "teenage girl collapsed on muddy shore, soaked clothes clinging, hands shaking as she stares at them, hollow thousand-yard stare, posture of someone defeated"
+    },
+    {
+      "id": "11.7",
+      "scene": 11,
+      "description": "older sister returning home muddy and wet, younger looking up from dog, face falling with concern"
+    },
+    {
+      "id": "11.8",
+      "scene": 11,
+      "description": "night in bed, older sister with more color in her face, younger sister beside her shivering, pale, sweat on her brow, fever returning"
+    },
+    {
+      "id": "11.9",
+      "scene": 11,
+      "description": "days later, teenage girl sitting alone on brushy hill, staring at nothing, slack face, hands limp in her lap"
+    },
+    {
+      "id": "11.10",
+      "scene": 11,
+      "revised": true,
+      "description": "teenage girl on hillside, landscape warping around her, trees bending at wrong angles, shadows stretching too long, sky color bleeding incorrectly, her figure the only stable thing"
+    },
+    {
+      "id": "11.11",
+      "scene": 11,
+      "description": "older sister hiding behind brush, hands pressed over her mouth, younger girl and dog passing nearby searching"
+    },
+    {
+      "id": "11.12",
+      "scene": 11,
+      "description": "teenage girl alone on hill, body turned toward the distant road, head turned back toward the homestead below, hands clenched at her sides"
+    },
+    {
+      "id": "12.1",
+      "scene": 12,
+      "description": "two sisters walking through woods, black dog ranging ahead, younger moving easily, older struggling to keep up"
+    },
+    {
+      "id": "12.2",
+      "scene": 12,
+      "description": "young girl holding up dead rabbit by the ears, grinning, black dog jumping at her feet"
+    },
+    {
+      "id": "12.3",
+      "scene": 12,
+      "description": "older sister hunched over fire pit struggling with flint, shaking hands, wet wood, sparks dying on damp tinder"
+    },
+    {
+      "id": "12.4",
+      "scene": 12,
+      "revised": true,
+      "description": "teenage girl slumped over dead fire pit, flint dropped from limp fingers, wet wood smoking, shoulders collapsed, staring at nothing"
+    },
+    {
+      "id": "12.5",
+      "scene": 12,
+      "revised": true,
+      "description": "young girl crouched across from older sister, jaw set, picking up the flint, eyes fierce and fixed on her sister, posture leaning forward with purpose"
+    },
+    {
+      "id": "12.6",
+      "scene": 12,
+      "description": "fire catching, small flame rising from tinder, both sisters watching it, faces lit by the new light"
+    },
+    {
+      "id": "12.7",
+      "scene": 12,
+      "description": "two sisters under blanket by fire, black dog at their feet, firelight on their faces, embers drifting upward"
+    },
+    {
+      "id": "12.8",
+      "scene": 12,
+      "revised": true,
+      "description": "young girl under blanket, eyes barely cracked open watching older sister, catching firelight, one hand slightly tensed ready to respond"
+    },
+    {
+      "id": "13.1",
+      "scene": 13,
+      "description": "teenage girl hanging laundry, eyes unfocused, staring past the clothesline, hands frozen mid-motion on a wet sheet"
+    },
+    {
+      "id": "13.2",
+      "scene": 13,
+      "revised": true,
+      "description": "teenage girl hanging laundry, but her shadow on the sheet shows her seated at a feast table, two realities overlapping, her expression distant and hungry"
+    },
+    {
+      "id": "13.3",
+      "scene": 13,
+      "revised": true,
+      "description": "teenage girl staring at crow in garden, hands curled into claws at her sides, predatory crouch, cruel smile, eyes too focused"
+    },
+    {
+      "id": "13.4",
+      "scene": 13,
+      "description": "young girl confronting older sister, chin raised, fists at her sides, older sister's arms crossed, face turned away, jaw tight"
+    },
+    {
+      "id": "13.5",
+      "scene": 13,
+      "revised": true,
+      "description": "teenage girl's hand raised to strike, half her face in shadow showing darker eye and visible veins, half in light still human, caught between two selves"
+    },
+    {
+      "id": "13.6",
+      "scene": 13,
+      "description": "young girl standing her ground, feet planted, chin up, not flinching, arms at her sides with palms open"
+    },
+    {
+      "id": "13.7",
+      "scene": 13,
+      "description": "older sister frozen mid-strike, arm still raised but going slack, black dog in corner with hackles raised and teeth bared"
+    },
+    {
+      "id": "13.8",
+      "scene": 13,
+      "description": "night dream, people dancing in a circle around dark swamp water, holding candles and lamps, flames reflected on the surface"
+    },
+    {
+      "id": "13.9",
+      "scene": 13,
+      "revised": true,
+      "description": "dream image, teenage girl in water surrounded by dancing figures with candles, looking down at her own hands becoming translucent, roots growing from her fingers"
+    },
+    {
+      "id": "13.10",
+      "scene": 13,
+      "description": "dream, vines and roots growing from girl's limbs, pulling her down into dark water, her fingers stretching upward toward the surface"
+    },
+    {
+      "id": "13.11",
+      "scene": 13,
+      "description": "teenage girl waking in bed, younger sister wiping her face with cool cloth, the same gesture the older sister performed earlier, younger girl's hand steady and careful"
+    },
+    {
+      "id": "13.12",
+      "scene": 13,
+      "description": "young girl standing strong, color in her cheeks, bright eyes, older sister beside her gaunt, sunken eyes, hollow cheeks, barely upright"
+    },
+    {
+      "id": "14.1",
+      "scene": 14,
+      "description": "young girl feeding black dog, scraping the last bits from a nearly empty bowl onto the ground"
+    },
+    {
+      "id": "14.2",
+      "scene": 14,
+      "revised": true,
+      "description": "teenage girl looming over young girl, face twisted and inhuman, mouth open too wide showing teeth, body coiled to strike, young girl shrinking back"
+    },
+    {
+      "id": "14.3",
+      "scene": 14,
+      "description": "young girl cowering, black dog between them barking protecting her"
+    },
+    {
+      "id": "14.4",
+      "scene": 14,
+      "revised": true,
+      "description": "young girl's face with tear tracks, hand pressed over her own mouth, eyes wide and glassy, staring at her sister"
+    },
+    {
+      "id": "15.1",
+      "scene": 15,
+      "description": "young girl gathering wood by the doorstep, older sister hanging laundry on the line, black dog trotting between them, afternoon light"
+    },
+    {
+      "id": "15.2",
+      "scene": 15,
+      "description": "young girl settled into older sister's lap on doorstep, older sister's arms around her, both looking out at the yard"
+    },
+    {
+      "id": "15.3",
+      "scene": 15,
+      "description": "two sisters talking and laughing on the doorstep, black dog flopped beside them belly-up, afternoon light"
+    },
+    {
+      "id": "15.4",
+      "scene": 15,
+      "description": "vision, sisters walking to well together, landscape transformed flowers everywhere brilliant blue sky, paradise"
+    },
+    {
+      "id": "15.5",
+      "scene": 15,
+      "description": "undertaker's wagon on road, young girl leaping up running toward it eagerly"
+    },
+    {
+      "id": "15.6",
+      "scene": 15,
+      "description": "stranger driving the wagon, face hidden behind a cloth mask, sitting rigid and silent, unfamiliar hands on the reins"
+    },
+    {
+      "id": "15.7",
+      "scene": 15,
+      "revised": true,
+      "description": "young girl standing rigid facing the masked stranger's wagon, shoulders shaking, fists clenched at sides, older sister approaching from behind with arm reaching out"
+    },
+    {
+      "id": "15.8",
+      "scene": 15,
+      "description": "two sisters walking home, black dog at heels, sun sinking, sky bleeding red, end of day"
+    },
+    {
+      "id": "16.1",
+      "scene": 16,
+      "description": "young girl heading out with bucket, older sister watching from doorway too unstable to follow"
+    },
+    {
+      "id": "16.2",
+      "scene": 16,
+      "description": "black dog following young girl to tree line then stopping, whining, won't go further"
+    },
+    {
+      "id": "16.3",
+      "scene": 16,
+      "description": "young girl alone at swamp edge, small figure against dark water, fists clenched, jaw set"
+    },
+    {
+      "id": "16.4",
+      "scene": 16,
+      "revised": true,
+      "description": "young girl at swamp's edge, small figure with fists clenched, chin raised defiantly, facing the dark water, body tense with challenge"
+    },
+    {
+      "id": "16.5",
+      "scene": 16,
+      "revised": true,
+      "description": "young girl standing at water's edge, dark water flat and still, her reflection sharp and clear, nothing else moving, no ripple, no response"
+    },
+    {
+      "id": "16.6",
+      "scene": 16,
+      "description": "young girl returning on the path, black dog still waiting at tree line, falling into step beside her"
+    },
+    {
+      "id": "17.1",
+      "scene": 17,
+      "description": "travelers passing house, recognizable hostile faces from refugee caravan, the woman who glared before"
+    },
+    {
+      "id": "17.2",
+      "scene": 17,
+      "revised": true,
+      "description": "woman's arm extended pointing at teenage girl, face contorted with hate, spit flying from mouth, other travelers behind her with hostile faces and clenched fists"
+    },
+    {
+      "id": "17.3",
+      "scene": 17,
+      "description": "teenage girl retreating inside, shaking, afraid"
+    },
+    {
+      "id": "17.4",
+      "scene": 17,
+      "revised": true,
+      "description": "stylized darker image, teenage girl as massive swamp creature rising from water, travelers tiny and fleeing, her face visible in the creature's form, dreamlike washed-out quality"
+    },
+    {
+      "id": "17.5",
+      "scene": 17,
+      "description": "young girl returning to find older sister's face twisted, rageful, veins visible at temples, eyes darkened, barely recognizable"
+    },
+    {
+      "id": "17.6",
+      "scene": 17,
+      "description": "young girl gripping older sister's shoulders and shaking her, one hand slapping her cheek, mouth open wide screaming"
+    },
+    {
+      "id": "17.7",
+      "scene": 17,
+      "description": "older sister shoving younger sister away with both hands, the smaller girl stumbling backward"
+    },
+    {
+      "id": "17.8",
+      "scene": 17,
+      "description": "black dog leaping between the two sisters, barking at the older one, body braced in front of the younger girl"
+    },
+    {
+      "id": "17.9",
+      "scene": 17,
+      "description": "young girl running down the path away from the house, older sister standing in the doorway not moving, distance growing between them"
+    },
+    {
+      "id": "18.1",
+      "scene": 18,
+      "description": "night, empty house interior, one bed unmade, younger girl's shoes missing from by the door, single candle burning low"
+    },
+    {
+      "id": "18.2",
+      "scene": 18,
+      "revised": true,
+      "description": "teenage girl in bed, hands clamped over ears, face contorted in pain, body curled fetal, dark tendrils of shadow creeping in from window edges"
+    },
+    {
+      "id": "18.3",
+      "scene": 18,
+      "revised": true,
+      "description": "teenage girl walking toward swamp, upper body twisted back resisting, face showing fear, but legs striding forward, body in conflict with itself"
+    },
+    {
+      "id": "18.4",
+      "scene": 18,
+      "description": "girl wading into swamp, water rising from ankles to knees to waist, arms hanging limp at her sides, face slack"
+    },
+    {
+      "id": "19.1",
+      "scene": 19,
+      "description": "young girl at house discovering older sister gone, fear on her face"
+    },
+    {
+      "id": "19.2",
+      "scene": 19,
+      "description": "mob arriving, torches makeshift weapons, woman from caravan leading them, angry crowd"
+    },
+    {
+      "id": "19.3",
+      "scene": 19,
+      "description": "garden destroyed, trampled vegetables ground into mud, fence posts snapped"
+    },
+    {
+      "id": "19.4",
+      "scene": 19,
+      "description": "house burning, flames rising through the roof, sparks swirling into dark sky"
+    },
+    {
+      "id": "19.5",
+      "scene": 19,
+      "description": "mob grabbing young girl, demanding answers, faces twisted with hate and fear"
+    },
+    {
+      "id": "19.6",
+      "scene": 19,
+      "description": "black dog attacking, defending young girl, teeth bared and snarling, lunging at the nearest mob member"
+    },
+    {
+      "id": "19.7",
+      "scene": 19,
+      "description": "dog being beaten back with clubs, yelping, young girl screaming with arms reaching toward the dog"
+    },
+    {
+      "id": "19.8",
+      "scene": 19,
+      "description": "young girl being dragged toward the swamp by mob"
+    },
+    {
+      "id": "20.1",
+      "scene": 20,
+      "description": "teenage girl standing waist-deep in black water, completely motionless, arms at her sides, head tilted at an unnatural angle"
+    },
+    {
+      "id": "20.2",
+      "scene": 20,
+      "revised": true,
+      "description": "teenage girl standing in water eyes rolled back white, dark veins visible spreading up her neck and arms, faint glow where her feet meet the water, roots visible beneath surface connecting outward"
+    },
+    {
+      "id": "20.3",
+      "scene": 20,
+      "revised": true,
+      "description": "burning house and mob scene framed by organic root-like borders, image has underwater quality as if seen through murky water, edges organic and alive"
+    },
+    {
+      "id": "20.4",
+      "scene": 20,
+      "revised": true,
+      "description": "close-up of teenage girl's face half-submerged, waterline across her face, above water her expression is rage, reflection below shows something ancient and pleased, same face two beings"
+    },
+    {
+      "id": "20.5",
+      "scene": 20,
+      "description": "girl walking deeper into black water, water rising to her chest, only head and shoulders above the surface"
+    },
+    {
+      "id": "20.6",
+      "scene": 20,
+      "description": "massive dark shape rising from beneath the water to meet the girl, tendrils of dark water wrapping around her body, her arms raised, the two forms connecting"
+    },
+    {
+      "id": "21.1",
+      "scene": 21,
+      "description": "mob at swamp edge with young girl held between them, injured dog limping behind, torchlight flickering on black water"
+    },
+    {
+      "id": "21.2",
+      "scene": 21,
+      "revised": true,
+      "description": "teenage girl standing in water, eyes completely black, faint pattern like scales or bark visible on skin, too still, expression empty but watching, torchlight reflecting wrong off her"
+    },
+    {
+      "id": "21.3",
+      "scene": 21,
+      "revised": true,
+      "description": "teenage girl's mouth open speaking, dark mist or particles flowing out with her breath, her posture commanding, nearest mob members stumbling backward"
+    },
+    {
+      "id": "21.4",
+      "scene": 21,
+      "description": "young girl shoved into the water, body mid-fall, dark water splashing around her, hands reaching out"
+    },
+    {
+      "id": "21.5",
+      "scene": 21,
+      "revised": true,
+      "description": "dark tendrils of shadow or smoke emanating from teenage girl, crawling along the water surface toward the mob, people beginning to clutch their heads"
+    },
+    {
+      "id": "21.6",
+      "scene": 21,
+      "description": "mob turning on itself, fighting each other in shallow water, hands around throats, dragging each other under"
+    },
+    {
+      "id": "21.7",
+      "scene": 21,
+      "description": "young girl struggling free in the chaos, crawling through shallow water, black dog splashing toward her"
+    },
+    {
+      "id": "21.8",
+      "scene": 21,
+      "revised": true,
+      "description": "teenage girl's face lit by torchlight and violence, cruel smile, eyes bright with satisfaction, watching the mob tear at each other, predatory and pleased"
+    },
+    {
+      "id": "21.9",
+      "scene": 21,
+      "description": "young girl screaming, mouth wide open, arm stretched toward her older sister in the water, tears and swamp water on her face"
+    },
+    {
+      "id": "22.1",
+      "scene": 22,
+      "revised": true,
+      "description": "black void with teenage girl's figure barely visible, single shaft of warm light cutting through from above, faint silhouette of young girl's reaching hand at the light's source"
+    },
+    {
+      "id": "22.2",
+      "scene": 22,
+      "description": "dark root-tentacle reaching out of the void toward the young girl's silhouette, gnarled and thick"
+    },
+    {
+      "id": "22.3",
+      "scene": 22,
+      "description": "older sister's hand gripping the root-tentacle, stopping it, arm shaking, veins standing out, muscles straining"
+    },
+    {
+      "id": "22.4",
+      "scene": 22,
+      "description": "memory image, younger sister as a baby cradled in the arms of a younger version of the older sister, soft warm light"
+    },
+    {
+      "id": "22.5",
+      "scene": 22,
+      "revised": true,
+      "description": "memory image, young girl maybe 6-7 years old, tear-streaked face, being held by younger teenage girl, two adult shapes lying still on the floor in background, dim room"
+    },
+    {
+      "id": "22.6",
+      "scene": 22,
+      "description": "memory image, younger sister wiping older sister's forehead with cool cloth, younger girl's face focused and steady"
+    },
+    {
+      "id": "22.7",
+      "scene": 22,
+      "revised": true,
+      "description": "memory image, young girl's face fierce and determined, hand reaching toward viewer, firelight on her face, jaw clenched, eyes blazing"
+    },
+    {
+      "id": "22.8",
+      "scene": 22,
+      "revised": true,
+      "description": "vision image, teenage girl on throne of roots and bones, mob dead at her feet, walls of thorns around a safe home, young girl protected behind her, dark paradise"
+    },
+    {
+      "id": "22.9",
+      "scene": 22,
+      "revised": true,
+      "description": "teenage girl in the void, hand clutching her chest over her heart, face showing effort and pain, refusing, the dark paradise vision cracking and falling away around her"
+    },
+    {
+      "id": "23.1",
+      "scene": 23,
+      "revised": true,
+      "description": "two overlapping figures wrestling, human teenage girl and dark root-creature version of herself, intertwined, neither winning, both exhausted, swamp imagery bleeding into human form"
+    },
+    {
+      "id": "23.2",
+      "scene": 23,
+      "revised": true,
+      "description": "teenage girl standing firm while dark tendrils push against her from all sides, feet planted wide, not struggling, eyes open, jaw set"
+    },
+    {
+      "id": "23.3",
+      "scene": 23,
+      "revised": true,
+      "description": "single figure of teenage girl, left half human and warm-lit, right half dark with visible veins and root patterns, both halves calm, standing together, one body two natures at peace"
+    },
+    {
+      "id": "23.4",
+      "scene": 23,
+      "description": "swamp, violence stopped, mob members standing dazed horrified at what they've done to each other"
+    },
+    {
+      "id": "23.5",
+      "scene": 23,
+      "revised": true,
+      "description": "teenage girl speaking to mob, dark particles in her breath but eyes still human, one hand raised palm-out, standing tall in the water"
+    },
+    {
+      "id": "23.6",
+      "scene": 23,
+      "description": "mob fleeing into darkness, stumbling over each other, torches dropped and sputtering in the mud"
+    },
+    {
+      "id": "23.7",
+      "scene": 23,
+      "description": "young girl wading through water toward older sister, arms reaching out, black dog paddling beside her"
+    },
+    {
+      "id": "23.8",
+      "scene": 23,
+      "description": "older sister trembling in the water, exhausted, dark veins still visible on her skin, but eyes clear and recognizably her own"
+    },
+    {
+      "id": "23.9",
+      "scene": 23,
+      "revised": true,
+      "description": "teenage girl turned away, shoulders hunched in shame, young girl's hand gripping her wrist refusing to let go, young girl's face fierce with determination, black dog at their feet"
+    },
+    {
+      "id": "23.10",
+      "scene": 23,
+      "description": "younger sister taking older sister's hand, fingers interlacing, both standing in shallow water, the younger girl's grip firm"
+    },
+    {
+      "id": "23.11",
+      "scene": 23,
+      "description": "younger sister leading older out of the swamp by the hand, water draining from their clothes, stepping onto dry ground"
+    },
+    {
+      "id": "24.1",
+      "scene": 24,
+      "description": "day, two sisters walking to well together, black dog trotting alongside, grassland stretching before them, clear sky"
+    },
+    {
+      "id": "24.2",
+      "scene": 24,
+      "description": "older sister lifting bucket from well, sleeves rolled up, one hand on the rope, steady pull"
+    },
+    {
+      "id": "24.3",
+      "scene": 24,
+      "description": "older sister tipping bucket for younger to drink, water splashing into cupped hands, the same position as the first scene"
+    },
+    {
+      "id": "24.4",
+      "scene": 24,
+      "description": "older sister wiping younger sister's face with her sleeve, one hand cupping her chin, the same gesture from the opening"
+    },
+    {
+      "id": "24.5",
+      "scene": 24,
+      "revised": true,
+      "description": "both sisters walking side by side, matching stride and posture, similar energy and color, neither leading nor following, equals walking together"
+    },
+    {
+      "id": "24.6",
+      "scene": 24,
+      "description": "wagon on distant road, the same boy from before standing and waving, dust rising behind the wheels"
+    },
+    {
+      "id": "24.7",
+      "scene": 24,
+      "description": "younger sister waving back, smile breaking wide across her face, hand raised high"
+    },
+    {
+      "id": "24.8",
+      "scene": 24,
+      "revised": true,
+      "description": "teenage girl watching young girl wave at the boy, small smile on her face, but shadow falls slightly wrong, eyes catch light with too much depth, subtle wrongness beneath the peace"
+    },
+    {
+      "id": "24.9",
+      "scene": 24,
+      "description": "black dog barking and chasing a bird across the grass, bounding through the field"
+    },
+    {
+      "id": "24.10",
+      "scene": 24,
+      "description": "two sisters turning toward home, walking side by side, the homestead visible ahead, dog trotting ahead of them, long shadows in late afternoon light"
+    }
+  ]
+}
